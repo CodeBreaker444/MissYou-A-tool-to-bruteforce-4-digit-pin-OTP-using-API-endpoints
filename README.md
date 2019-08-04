@@ -32,7 +32,7 @@ threading
 ## Usage
 ``` python3 cb_missyou.py ```
 ## Screenshots
-![Alt text](/Screenshots/main.png?raw=true "Main GUI"
+![Alt text](/Screenshots/main.png?raw=true "Main GUI")
 ## Limitations
 - Only 4 digit pin bruteforcing is supported because 6 digit pin has 1 million combinations which is not practical to bruteforce.
 - Multi-threading is locked to 24 threads but you can manually change it in code (variable name: lock -13th line). Don't increase it too much because your system my halt or crash.
