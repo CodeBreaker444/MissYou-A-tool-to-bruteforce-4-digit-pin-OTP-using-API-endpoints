@@ -35,7 +35,7 @@ class cb_user_inputs_missyou():
 ██║ ╚═╝ ██║██║███████║███████║   ██║   ╚██████╔╝╚██████╔╝\033[96m
 ╚═╝     ╚═╝╚═╝╚══════╝╚══════╝   ╚═╝    ╚═════╝  ╚═════╝ 
                                                    \033[95mV 1.0    
-\033[93m== API BRUTEFORCER WITH SUPPORT OF CONCURRECT REQUESTS ==  \033[0m
+\033[93m== API BRUTEFORCER WITH SUPPORT OF CONCURRENT REQUESTS ==  \033[0m
 ==[[ .:: Name : MissYou ::.]]==\033[96m
 ==[[ .:: Author : Cod3Br3ak3r ::.]]==\033[92m
 ==[[ .:: Website : https://govardhanchitrada.me ::.]]==\033[96m
