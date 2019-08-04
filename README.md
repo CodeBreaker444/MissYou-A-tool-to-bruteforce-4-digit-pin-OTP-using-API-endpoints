@@ -38,7 +38,7 @@ threading
 
 ## Limitations
 - Only 4 digit pin bruteforcing is supported because 6 digit pin has 1 million combinations which is not practical to bruteforce.
-- Multi-threading is locked to 24 threads but you can manually change it in code (variable name: lock -13th line). Don't increase it too much because your system my halt or crash.
+- Multi-threading is locked to 24 threads but you can manually change it in code (variable name: lock -13th line). Don't increase it too much because your system may halt or crash.
 - No user choice for entering response code (no reasons) but you can change it in the code(it's needed most of the time, default: ['response']['success']). Pull requests will be open and you can change the code too, I will merge it once i have reviewed the changes (special thanks will be credited).
 - Bruteforce does not work when IP-ratelimiting or reset otp counter is in place.
 - Let me know if there are any left.
