@@ -8,12 +8,12 @@
 ╚═╝     ╚═╝╚═╝╚══════╝╚══════╝   ╚═╝    ╚═════╝  ╚═════╝ 
 
 </pre>
-
+![](https://travis-ci.org/CodeBreaker444/miss-you.svg?branch=master)
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/built%20with-Python3-green.svg" alt="built with Python3" /></a>
 
 </div>
 
-# A tool to bruteforce API endpoints(Sends conquerent requests to speed up the attack) ![](https://travis-ci.org/CodeBreaker444/miss-you.svg?branch=master)
+# A tool to bruteforce API endpoints(Sends conquerent requests to speed up the attack)
 ## Requirements:
 - Python3
 - pycharm(Optional)
