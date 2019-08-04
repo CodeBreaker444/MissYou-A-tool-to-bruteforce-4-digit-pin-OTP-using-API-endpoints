@@ -32,7 +32,7 @@ threading
 ## Usage
 ``` python3 cb_missyou.py ```
 ## Screenshots
-<img src="/Screenshots/main.png" width="200">
+<img src="/Screenshots/main.png" width="400"></img>
 ![MissYOU](/Screenshots/missyou-codebreaker.gif?raw=true "Main GUI")
 
 ## Limitations
