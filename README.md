@@ -12,7 +12,7 @@
 </div>
 
 # Overview
-### A tool to bruteforce API endpoints(Sends multiple concurrent requests to speed up the attack). MissYOU takes around 4 minutes with 24 threads in parallel to crack a 4 digit pin(otp). ![](https://travis-ci.org/CodeBreaker444/MissYou-A-tool-to-bruteforce-4-digit-pin-OTP-using-API-endpoints.svg?branch=master)
+### A tool to bruteforce API endpoints(Sends multiple concurrent requests to speed up the attack). MissYOU takes around 4 minutes with 24 threads in parallel to crack a 4 digit pin(otp). ![](https://travis-ci.org/CodeBreaker444/miss-you.svg?branch=master)
 
 ## Requirements:
 - Python3
@@ -27,7 +27,7 @@ requests
 threading
 
 ```
-> `Check it in Action:` [Click Here](https://travis-ci.org/CodeBreaker444/miss-you)
+> `Check it in Action:` [Click Here](https://travis-ci.org/CodeBreaker444/MissYou-A-tool-to-bruteforce-4-digit-pin-OTP-using-API-endpoints)
 
 ## Usage
 ``` python3 cb_missyou.py ```
